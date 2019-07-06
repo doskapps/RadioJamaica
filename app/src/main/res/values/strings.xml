@@ -2,7 +2,7 @@
 <resources>
 
     <!--Your application name-->
-    <string name="app_name">Dominican Republic Radio</string>
+    <string name="app_name">Puerto Rico Radio</string>
 
     <!--Your main menu tab name-->
     <string name="tab_recent">Recent</string>
