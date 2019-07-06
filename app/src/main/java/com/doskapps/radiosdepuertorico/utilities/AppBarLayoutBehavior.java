@@ -1,4 +1,4 @@
-package com.doskapps.radiosrepublicadominicana.utilities;
+package com.doskapps.radiosdepuertorico.utilities;
 
 /*
  * Copyright (C) 2017 The Android Open Source Project
