@@ -14,7 +14,6 @@
     <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
 
     <!--navigation drawer menu name-->
-
     <string name="drawer_recent">Home</string>
     <string name="drawer_favorite">Favoritos</string>
     <string name="drawer_locale">País</string>
