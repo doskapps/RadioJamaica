@@ -27,7 +27,6 @@ android {
     buildToolsVersion = '28.0.3'
 }
 
-
 //IMPORTANT :
 //Highly recommended to keep the library version
 //Be careful when update dependencies, different library version may caused error
