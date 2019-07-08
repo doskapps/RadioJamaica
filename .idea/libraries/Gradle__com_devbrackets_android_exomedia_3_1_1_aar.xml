@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.devbrackets.android:exomedia:3.1.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/7a0c3bc01180e806c9d8e03dc7be5e7c/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/34b410a8418d2118d1f659858d802881/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/7a0c3bc01180e806c9d8e03dc7be5e7c/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/7a0c3bc01180e806c9d8e03dc7be5e7c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/34b410a8418d2118d1f659858d802881/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exomedia-3.1.1.aar/34b410a8418d2118d1f659858d802881/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

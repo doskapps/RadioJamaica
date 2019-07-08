@@ -1,40 +1,39 @@
 {
   "project_info": {
-    "project_number": "651389799578",
-    "firebase_url": "https://radio-republica-dominica-12d6c.firebaseio.com",
-    "project_id": "radio-republica-dominica-12d6c",
-    "storage_bucket": "radio-republica-dominica-12d6c.appspot.com"
+    "project_number": "170123490735",
+    "firebase_url": "https://radio-puerto-rico-7dc54.firebaseio.com",
+    "project_id": "radio-puerto-rico-7dc54",
+    "storage_bucket": "radio-puerto-rico-7dc54.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:651389799578:android:50c9776b044f102f",
+        "mobilesdk_app_id": "1:170123490735:android:d393c81b08acfbd3",
         "android_client_info": {
           "package_name": "com.doskapps.radiosdepuertorico"
         }
       },
       "oauth_client": [
         {
-          "client_id": "651389799578-j23esfso65u93f4cnd3693pl3oplhj8e.apps.googleusercontent.com",
+          "client_id": "170123490735-sik3gof1pat6ohp9qo4cas2ddjc54idt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBi1ynux6-mjP3cuFooKAREYAZFHlv-pDo"
+          "current_key": "AIzaSyDmebs9cghmf3ApEKO-lgiTbsZ1Mz2LlWQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "651389799578-j23esfso65u93f4cnd3693pl3oplhj8e.apps.googleusercontent.com",
+              "client_id": "170123490735-sik3gof1pat6ohp9qo4cas2ddjc54idt.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
-      },
-      "admob_app_id": "ca-app-pub-7602201078320441~3237008092"
+      }
     }
   ],
   "configuration_version": "1"
