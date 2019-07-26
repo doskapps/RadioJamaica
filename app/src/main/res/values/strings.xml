@@ -2,7 +2,7 @@
 <resources>
 
     <!--Your application name-->
-    <string name="app_name">Puerto Rico Radio</string>
+    <string name="app_name">Guatemala Radio</string>
 
     <!--Your main menu tab name-->
     <string name="tab_recent">Recent</string>
@@ -10,8 +10,8 @@
 
     <!--AdMob-->
     <string name="admob_app_id">ca-app-pub-7602201078320441~2487420242</string>
-    <string name="admob_banner_unit_id">ca-app-pub-7602201078320441/5297771637</string>
-    <string name="admob_interstitial_unit_id">ca-app-pub-7602201078320441/3936233283</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
 
     <!--navigation drawer menu name-->
     <string name="drawer_recent">Home</string>
