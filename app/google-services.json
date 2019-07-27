@@ -1,39 +1,40 @@
 {
   "project_info": {
-    "project_number": "170123490735",
-    "firebase_url": "https://radio-puerto-rico-7dc54.firebaseio.com",
-    "project_id": "radio-puerto-rico-7dc54",
-    "storage_bucket": "radio-puerto-rico-7dc54.appspot.com"
+    "project_number": "306649324759",
+    "firebase_url": "https://radio-guatemala-d9af3.firebaseio.com",
+    "project_id": "radio-guatemala-d9af3",
+    "storage_bucket": "radio-guatemala-d9af3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:170123490735:android:d393c81b08acfbd3",
+        "mobilesdk_app_id": "1:306649324759:android:2b1cce2ef43f5437",
         "android_client_info": {
           "package_name": "com.doskapps.radiosdeguatemala"
         }
       },
       "oauth_client": [
         {
-          "client_id": "170123490735-sik3gof1pat6ohp9qo4cas2ddjc54idt.apps.googleusercontent.com",
+          "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDmebs9cghmf3ApEKO-lgiTbsZ1Mz2LlWQ"
+          "current_key": "AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "170123490735-sik3gof1pat6ohp9qo4cas2ddjc54idt.apps.googleusercontent.com",
+              "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-7602201078320441~1921560999"
     }
   ],
   "configuration_version": "1"
