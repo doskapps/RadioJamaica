@@ -23,7 +23,7 @@
     <string name="drawer_about">Acerca de</string>
 
     <!--exit dialog-->
-    <string name="message">Realmente deceas salir?</string>
+    <string name="message">Realmente deseas salir?</string>
     <string name="quit">Salir</string>
     <string name="minimize">Minimizar</string>
     <string name="cancel">Cancelar</string>
