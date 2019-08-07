@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "306649324759",
-    "firebase_url": "https://radio-guatemala-d9af3.firebaseio.com",
-    "project_id": "radio-guatemala-d9af3",
-    "storage_bucket": "radio-guatemala-d9af3.appspot.com"
+    "project_number": "412963191685",
+    "firebase_url": "https://radios-haiti-a5153.firebaseio.com",
+    "project_id": "radios-haiti-a5153",
+    "storage_bucket": "radios-haiti-a5153.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:306649324759:android:2b1cce2ef43f5437",
+        "mobilesdk_app_id": "1:412963191685:android:1a23a769a45ccd86",
         "android_client_info": {
           "package_name": "com.doskapps.radiosdehaiti"
         }
       },
       "oauth_client": [
         {
-          "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
+          "client_id": "412963191685-lkkkmr94jj1p7giamkkoo99hntoanjr2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC9qtBz_23nL5qP__1PVV382mA7wrgVOJ0"
+          "current_key": "AIzaSyBOsubZXbkFkVFLQCcwlKNB7oiCtZ5jyhA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "306649324759-o7gf5so05ss39pepbc49458pd95li8li.apps.googleusercontent.com",
+              "client_id": "412963191685-lkkkmr94jj1p7giamkkoo99hntoanjr2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
       },
-      "admob_app_id": "ca-app-pub-7602201078320441~1921560999"
+      "admob_app_id": "ca-app-pub-7602201078320441~4109422821"
     }
   ],
   "configuration_version": "1"
