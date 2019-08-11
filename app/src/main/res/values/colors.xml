@@ -2,8 +2,8 @@
 <resources>
 
     <!--app main color-->
-    <color name="colorPrimary">#004A85</color>
-    <color name="colorPrimaryDark">#4D53D3</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#00800F</color>
     <color name="colorAccent">#000000</color>
 
     <!--app tab color-->
