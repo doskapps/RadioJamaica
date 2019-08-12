@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "412963191685",
-    "firebase_url": "https://radios-haiti-a5153.firebaseio.com",
-    "project_id": "radios-haiti-a5153",
-    "storage_bucket": "radios-haiti-a5153.appspot.com"
+    "project_number": "701834420627",
+    "firebase_url": "https://radios-jamaica-90ba0.firebaseio.com",
+    "project_id": "radios-jamaica-90ba0",
+    "storage_bucket": "radios-jamaica-90ba0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:412963191685:android:1a23a769a45ccd86",
+        "mobilesdk_app_id": "1:701834420627:android:81a647a300d6733a",
         "android_client_info": {
           "package_name": "com.doskapps.jamaicaradiostations"
         }
       },
       "oauth_client": [
         {
-          "client_id": "412963191685-lkkkmr94jj1p7giamkkoo99hntoanjr2.apps.googleusercontent.com",
+          "client_id": "701834420627-jbrtpgf6ued660uls5gh7sc636a0dv2s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBOsubZXbkFkVFLQCcwlKNB7oiCtZ5jyhA"
+          "current_key": "AIzaSyBusSpuEmb-PmQ28BFNXlDbObulhG8otE0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "412963191685-lkkkmr94jj1p7giamkkoo99hntoanjr2.apps.googleusercontent.com",
+              "client_id": "701834420627-jbrtpgf6ued660uls5gh7sc636a0dv2s.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
       },
-      "admob_app_id": "ca-app-pub-7602201078320441~4109422821"
+      "admob_app_id": "ca-app-pub-7602201078320441~6674487354"
     }
   ],
   "configuration_version": "1"
